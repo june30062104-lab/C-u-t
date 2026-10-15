@@ -1,0 +1,62 @@
+{
+  "output": "storytelling-full-v2-1080p30.mp4",
+  "duration_seconds": 2281,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "image_count": 222,
+  "highlights": 129,
+  "sfx_events": 199,
+  "sha256": "0a81595893d4ffcfad5562acfbcc3345e8ecbf89c5c8ce5fcd8c82e11848b53d",
+  "parts": [
+    {
+      "file": "storytelling-full.mp4.001",
+      "bytes": 83886080,
+      "sha256": "b654d304f21c2f2720992b6a5a9a0b51cb412e821bf0d7c7cff76216537e3ce7"
+    },
+    {
+      "file": "storytelling-full.mp4.002",
+      "bytes": 83886080,
+      "sha256": "4c7b87af1736dccd9158a18f94b60e73ce055f7f3fbb4de518e1121ee4f6ce15"
+    },
+    {
+      "file": "storytelling-full.mp4.003",
+      "bytes": 83886080,
+      "sha256": "723cef4adf288bb8aa15cc650c7b40ffde4e8445b90ccbf65654d5d496faf140"
+    },
+    {
+      "file": "storytelling-full.mp4.004",
+      "bytes": 83886080,
+      "sha256": "ee5255059f2286ac6ee078826c23c24be3b1fc32fc978dcb41c1f3e0b2e1369b"
+    },
+    {
+      "file": "storytelling-full.mp4.005",
+      "bytes": 83886080,
+      "sha256": "8e5b6ac87f60cb49a266da0e476691eeeec43e1e2a1ec4331f0c52bdb1a87667"
+    },
+    {
+      "file": "storytelling-full.mp4.006",
+      "bytes": 83886080,
+      "sha256": "6c5afc771147589f3d40b64673f21546487549efb8b9bf43a75918d532e413ec"
+    },
+    {
+      "file": "storytelling-full.mp4.007",
+      "bytes": 83886080,
+      "sha256": "ac75cdbb0987d7b8c6972b50dcc74d4c722a8341c1ed797e55aef0142ba0e8d0"
+    },
+    {
+      "file": "storytelling-full.mp4.008",
+      "bytes": 83886080,
+      "sha256": "c75d4a35827b4aa41105b1d84471ebc469536bc64faa3ed45197f0a35e90360e"
+    },
+    {
+      "file": "storytelling-full.mp4.009",
+      "bytes": 83886080,
+      "sha256": "b088bb9bb9d2c6e409fed1b36d7d1f277a858098de54398e5c07f257eda8087f"
+    },
+    {
+      "file": "storytelling-full.mp4.010",
+      "bytes": 70889474,
+      "sha256": "a7f6ca8279a99e374f0b70b26440e84780590809a8c961e783433f2bd1fe5940"
+    }
+  ]
+}
